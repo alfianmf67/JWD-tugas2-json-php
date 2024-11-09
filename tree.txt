@@ -1,0 +1,11 @@
+Folder PATH listing
+Volume serial number is 4878-0AAA
+C:.
+    khs.php
+    khsjson.php
+    krs2.json
+    readme.md
+    tree.txt
+    
+No subfolders exist 
+
