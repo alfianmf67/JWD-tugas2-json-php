@@ -43,9 +43,11 @@ Install my-project with php
 
 
 ## Folder Directory (Tree)
+```
 JWD-json-php-tugas2.
   khs.php
     khsjson.php
     krs2.json
     readme.md
     tree.txt
+```
